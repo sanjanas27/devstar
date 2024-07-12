@@ -80,6 +80,33 @@
             }
         ]
     },
+    "color-tools": {
+        "name": "color-tools",
+        "link": "/color-tools",
+        "description": "hello ",
+        "contributors": [
+            {
+                "name": "Sanjana Santhosh",
+                "githubId": "sanjanas27"
+            },
+            {
+                "name": "Pragna Thanam",
+                "githubId": "PragnaThanam30"
+            },
+            {
+                "name": "Nagalaxmi Chodekar",
+                "githubId": "nagalaxmi1"
+            },
+            {
+                "name": "V Meghana",
+                "githubId": "vemulameghanareddy"
+            },
+            {
+                "name": "Sunkurwar Ashwini",
+                "githubId": "Sunkurwar-Ashwini"
+            }
+        ]
+    },
     "css-animator": {
         "name": "CSS Animator",
         "link": "/css-animator",
@@ -117,9 +144,9 @@
             }
         ]
     },
-    "gradient-generator": {
+    "Gradient-generator": {
         "name": "Gradient Generator",
-        "link": "/gradient-generator",
+        "link": "/Gradient-generator",
         "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
         "contributors": [
             {
