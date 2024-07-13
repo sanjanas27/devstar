@@ -1,11 +1,9 @@
 <script>
-
+  import ColorTones from './colortones.svelte';
 </script>
 
-<div class="card gap-16 items-center mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 overflow-hidden rounded-lg">
-	<!-- Add tool here -->
-</div>
-
-<style>
-
-</style>
+<main>
+  <h1>Color Tools</h1>
+  <ColorTones />
+</main>
+  
